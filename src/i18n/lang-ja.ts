@@ -1,12 +1,12 @@
 import { Translation } from '../models';
 
 export const translation: Translation = {
-  themeInstalled: 'Material Icon Theme がインストールされました。',
+  themeInstalled: 'Starlane Icon Theme がインストールされました。',
   howToActivate: 'アイコンの有効化方法',
   activate: '有効化',
-  activated: 'Material Icon Theme は有効です。',
+  activated: 'Starlane Icon Theme は有効です。',
   neverShowAgain: '今後は表示しない',
-  themeUpdated: 'Material Icon Theme が更新されました。',
+  themeUpdated: 'Starlane Icon Theme が更新されました。',
   readChangelog: '変更履歴を読む',
   iconPacks: {
     selectPack: 'アイコンパックを選択する',

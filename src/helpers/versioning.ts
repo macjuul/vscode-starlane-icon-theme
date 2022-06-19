@@ -7,7 +7,7 @@ export const getConfig = (section?: string) => {
   return workspace.getConfiguration(section);
 };
 
-export const versionKey = 'material-icon-theme.version';
+export const versionKey = 'starlane-icon-theme.version';
 
 /**
  * Check the current status of the theme
@@ -68,6 +68,6 @@ const updateExtensionVersionInMemento = (state: Memento) => {
 
 /** Get the current version of the extension */
 const getCurrentExtensionVersion = (): string | undefined => {
-  return extensions.getExtension('PKief.material-icon-theme')?.packageJSON
+  return extensions.getExtension('PKief.starlane-icon-theme')?.packageJSON
     .version;
 };

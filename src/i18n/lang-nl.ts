@@ -1,12 +1,12 @@
 import { Translation } from '../models';
 
 export const translation: Translation = {
-  themeInstalled: 'Material Icon Thema is geïnstalleerd.',
+  themeInstalled: 'Starlane Icon Thema is geïnstalleerd.',
   howToActivate: 'Hoe je icons activeert',
   activate: 'Activeer',
-  activated: 'Material Icon Thema is actief.',
+  activated: 'Starlane Icon Thema is actief.',
   neverShowAgain: 'Nooit meer laten zien',
-  themeUpdated: 'Material Icon Thema is geüpdated.',
+  themeUpdated: 'Starlane Icon Thema is geüpdated.',
   readChangelog: 'Lees de changelog',
   iconPacks: {
     selectPack: 'Selecteer een iconpakket',

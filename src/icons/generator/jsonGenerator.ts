@@ -73,19 +73,19 @@ export const createIconFile = (
     updatedConfigs?.opacity &&
     !validateOpacityValue(updatedConfigs?.opacity)
   ) {
-    throw Error('Material Icons: Invalid opacity value!');
+    throw Error('Starlane Icons: Invalid opacity value!');
   }
   if (
     updatedConfigs?.saturation &&
     !validateSaturationValue(updatedConfigs?.saturation)
   ) {
-    throw Error('Material Icons: Invalid saturation value!');
+    throw Error('Starlane Icons: Invalid saturation value!');
   }
   if (
     updatedConfigs?.folders?.color &&
     !validateHEXColorCode(updatedConfigs?.folders?.color)
   ) {
-    throw Error('Material Icons: Invalid folder color value!');
+    throw Error('Starlane Icons: Invalid folder color value!');
   }
 
   try {
