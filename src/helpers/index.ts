@@ -12,7 +12,7 @@ export const getConfig = (section?: string) => {
 
 /** Get list of configuration entries of package.json */
 export const getConfigProperties = (): { [config: string]: unknown } => {
-  return vscode.extensions.getExtension('PKief.starlane-icon-theme')
+  return vscode.extensions.getExtension('StarlaneStudios.starlane-icon-theme')
     ?.packageJSON?.contributes?.configuration?.properties;
 };
 
@@ -61,8 +61,8 @@ export const isThemeNotVisible = (): boolean => {
 
 /** Return the path of the extension in the file system. */
 export const getExtensionPath = () =>
-  vscode.extensions.getExtension('PKief.starlane-icon-theme')?.extensionPath ??
-  '';
+  vscode.extensions.getExtension('StarlaneStudios.starlane-icon-theme')
+    ?.extensionPath ?? '';
 
 /** Get the configuration of the icons as JSON Object */
 export const getMaterialIconsJSON = (): IconConfiguration => {

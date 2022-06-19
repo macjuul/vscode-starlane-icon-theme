@@ -68,6 +68,6 @@ const updateExtensionVersionInMemento = (state: Memento) => {
 
 /** Get the current version of the extension */
 const getCurrentExtensionVersion = (): string | undefined => {
-  return extensions.getExtension('PKief.starlane-icon-theme')?.packageJSON
-    .version;
+  return extensions.getExtension('StarlaneStudios.starlane-icon-theme')
+    ?.packageJSON.version;
 };
