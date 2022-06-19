@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.745 19.818h-3.007v-5.882q0-2.381-1.736-2.381-.869 0-1.438.663-.56.662-.56 1.718v5.882H6.988V4.533h3.016v6.508h.037q1.186-1.802 3.193-1.802 3.511 0 3.511 4.239z" fill="#0277bd" aria-label="h"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <path d="M16.745,19.818L13.738,19.818L13.738,13.936C13.738,12.348 13.16,11.555 12.002,11.555C11.423,11.555 10.943,11.776 10.564,12.218C10.19,12.66 10.004,13.232 10.004,13.936L10.004,19.818L6.988,19.818L6.988,4.533L10.004,4.533L10.004,11.041L10.041,11.041C10.831,9.84 11.896,9.239 13.234,9.239C15.575,9.239 16.745,10.652 16.745,13.478L16.745,19.818Z" style="fill:rgb(0,188,212);fill-rule:nonzero;"/>
+    </g>
+</svg>

@@ -2056,5 +2056,8 @@ export const fileIcons: FileIcons = {
         'steadybit.yaml',
       ],
     },
+    { name: 'unreal-project', fileExtensions: ['uproject'] },
+    { name: 'unreal-map', fileExtensions: ['umap'] },
+    { name: 'unreal-asset', fileExtensions: ['uasset'] },
   ],
 };
