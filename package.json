@@ -2,7 +2,7 @@
   "name": "starlane-icon-theme",
   "displayName": "Starlane Icon Theme",
   "description": "Starlane Studios modified theme",
-  "version": "4.18.1",
+  "version": "1.0.0",
   "publisher": "StarlaneStudios",
   "private": true,
   "scripts": {
